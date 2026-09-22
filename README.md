@@ -19,7 +19,7 @@ ssh-keygen -t ed25519 -f ~/.ssh/raspi4-kiosk -C "for-raspberry-pi4-kiosk"
 
 ### Raspberry Pi Imagerで行うこと
 
-Raspberry Pi OSのRelease date:4 Dec 2025
+Raspberry Pi OSのRelease date:15 Sep 2026
 
 ### インストール手順
 Raspberry Pi Imager をダウンロードして起動します。
